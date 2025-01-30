@@ -1,5 +1,8 @@
 # Nuxt3 blog
 A small blog built with Nuxt 3, where articles are written in Markdown.
+
+[live demo](https://nuxt-blog-beta-virid.vercel.app/blog)
+
 ## Setup
 
 Make sure to install dependencies:
