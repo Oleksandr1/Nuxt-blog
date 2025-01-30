@@ -13,13 +13,7 @@ publishedAt: 01.01.2025
 
 ## PROFILE
 
-Independent team player and results-driven Senior Frontend Developer with 7+ years of experience
-
-building scalable and user-friendly web applications. Skilled in creating complex architectures, improving
-
-legacy systems, and delivering high-quality solutions using Vue.js, Nuxt, and modern JavaScript
-
-ecosystems.
+Independent team player and results-driven Senior Frontend Developer with 7+ years of experience building scalable and user-friendly web applications. Skilled in creating complex architectures, improving legacy systems, and delivering high-quality solutions using Vue.js, Nuxt, and modern JavaScript ecosystems.
 
 ## WORK EXPERIENCE
 
