@@ -1,7 +1,5 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
+# Nuxt3 blog
+A small blog built with Nuxt 3, where articles are written in Markdown.
 ## Setup
 
 Make sure to install dependencies:
